@@ -5,6 +5,3 @@
 
 <img src="https://latex.codecogs.com/gif.latex?(x)=ax^2+b+c" /> 
 
-``` math 
-f(x) = ax^2 + bx + c
-```
