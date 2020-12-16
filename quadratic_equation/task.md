@@ -3,5 +3,5 @@
 
 Необходимо обработать все граничные ситуации.
 
-<img src="https://latex.codecogs.com/gif.latex?(x)=ax^2+b+c" /> 
+<img src="https://latex.codecogs.com/gif.latex?f(x)=ax^2+b+c" /> 
 
