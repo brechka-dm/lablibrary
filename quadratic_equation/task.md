@@ -3,7 +3,7 @@
 
 Необходимо обработать все граничные ситуации.
 
-<img src="https://latex.codecogs.com/gif.latex?O_t=$$f(x) = ax^2 + bx + c$$ " /> 
+<img src="https://latex.codecogs.com/gif.latex?$$f(x) = ax^2 + bx + c$$ " /> 
 
 ``` math 
 f(x) = ax^2 + bx + c
